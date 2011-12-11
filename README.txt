@@ -22,3 +22,5 @@ http://www.flickr.com/services/api/
 Comments and questions should be sent to anthonyeden@gmail.com.
 
 -Anthony Eden
+
+Installation: http://clojars.org/flickrj
